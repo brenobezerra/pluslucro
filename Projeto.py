@@ -18,3 +18,7 @@ print("meu app é o melhor")
 def subtracao(a, b):
     return a - b        
 print("A subtração é:", subtracao(10, 5))
+
+def subtracao(a, b):
+    return a - b        
+print("A subtração é:", subtracao(10, 5))
