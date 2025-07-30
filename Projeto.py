@@ -12,3 +12,4 @@ def multiplicacao(a, b):
 print("A multiplicação é:", multiplicacao(10, 3))
 
 print("meu app é o melhor")
+print("meu app é o melhor")
