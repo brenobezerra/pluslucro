@@ -14,3 +14,7 @@ print("A multiplicação é:", multiplicacao(10, 3))
 print("meu app é o melhor")
 print("meu app é o melhor")
 print("meu app é o melhor")
+
+def subtracao(a, b):
+    return a - b        
+print("A subtração é:", subtracao(10, 5))
