@@ -15,3 +15,5 @@ def get_db():
         yield db
     finally:
         db.close()
+
+print("Conexão com o banco criada com sucesso!")
